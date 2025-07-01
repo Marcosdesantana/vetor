@@ -1,0 +1,29 @@
+body{
+   background-color: aqua; 
+   font: normal 20pt arial;
+}
+
+header{
+ color:aliceblue;
+ text-align: center;
+}
+
+section{
+   background-color: aliceblue;
+   border-radius: 10px; /*border-radius serve pra deixar as bordas arredondadas */
+   padding: 15px; /* serve para dar tamanho a area */
+   width:500px; /*largura*/
+   margin:auto; /*comando pra centralizar*/
+   box-shadow: 5px 5px 10px ; /* o prim é lateral, o seg é vertical e ter é espalhamento*/
+}
+
+footer{
+  color: aliceblue;
+  text-align:center;
+  font: italic; /*serve pra mudar o tipo da fonte*/
+  padding:18px;
+}
+
+select{
+    width: 200px;
+}
